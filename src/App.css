@@ -1,0 +1,11 @@
+.box-body {
+  padding: 55px 5px;
+}
+
+.header {
+  background-color: rgb(32, 15, 48);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
